@@ -1,0 +1,18 @@
+{
+  "general": {
+    "searchUrl": "https://www.google.com/search?q="
+  },
+  "weather": {
+    "enabled": false,
+    "apiKey": "",
+    "location": "London"
+  },
+  "unifi": {
+    "enabled": false,
+    "ip": "",
+    "username": "",
+    "password": "",
+    "hostnames": [],
+    "showAllClients": false
+  }
+}
